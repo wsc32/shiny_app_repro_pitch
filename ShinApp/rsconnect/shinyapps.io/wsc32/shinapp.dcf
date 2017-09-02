@@ -4,7 +4,7 @@ username:
 account: wsc32
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 210152
-bundleId: 964521
+appId: 210155
+bundleId: 964538
 url: https://wsc32.shinyapps.io/shinapp/
-when: 1504343360.9285
+when: 1504345253.17473
