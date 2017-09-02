@@ -1,0 +1,10 @@
+name: shinapp
+title:
+username:
+account: wsc32
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 210152
+bundleId: 964521
+url: https://wsc32.shinyapps.io/shinapp/
+when: 1504343360.9285
